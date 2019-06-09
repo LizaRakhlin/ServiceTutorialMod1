@@ -5,5 +5,5 @@
         "outDir": "out",
         "sourceMap": true
     },
-    "files": ["helloworld.ts"]
+    "files": ["helloworld.ts", "test.ts"]
 }

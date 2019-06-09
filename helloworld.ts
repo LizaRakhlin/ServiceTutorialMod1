@@ -1,3 +1,5 @@
-let message : string = "Hello World";
-console.log(message);
+export function hello() {
+  return "Hello World!";
+}
 
+console.log("Done!");
